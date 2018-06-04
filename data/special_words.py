@@ -1,5 +1,0 @@
-XSym
-0061
-b2fa35feb408d44aa1087323f3071028
-/Users/Yang/skip_thoughts/skip_thoughts/data/special_words.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
