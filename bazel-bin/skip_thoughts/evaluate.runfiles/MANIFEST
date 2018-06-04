@@ -1,0 +1,12 @@
+__main__/skip_thoughts/__init__.py 
+__main__/skip_thoughts/configuration.py /Users/Yang/skip_thoughts/skip_thoughts/configuration.py
+__main__/skip_thoughts/data/__init__.py 
+__main__/skip_thoughts/data/special_words.py /Users/Yang/skip_thoughts/skip_thoughts/data/special_words.py
+__main__/skip_thoughts/encoder_manager.py /Users/Yang/skip_thoughts/skip_thoughts/encoder_manager.py
+__main__/skip_thoughts/evaluate /private/var/tmp/_bazel_Yang/400fa182461fe17cc77f5038eddf02de/execroot/__main__/bazel-out/darwin-opt/bin/skip_thoughts/evaluate
+__main__/skip_thoughts/evaluate.py /Users/Yang/skip_thoughts/skip_thoughts/evaluate.py
+__main__/skip_thoughts/ops/__init__.py 
+__main__/skip_thoughts/ops/gru_cell.py /Users/Yang/skip_thoughts/skip_thoughts/ops/gru_cell.py
+__main__/skip_thoughts/ops/input_ops.py /Users/Yang/skip_thoughts/skip_thoughts/ops/input_ops.py
+__main__/skip_thoughts/skip_thoughts_encoder.py /Users/Yang/skip_thoughts/skip_thoughts/skip_thoughts_encoder.py
+__main__/skip_thoughts/skip_thoughts_model.py /Users/Yang/skip_thoughts/skip_thoughts/skip_thoughts_model.py
