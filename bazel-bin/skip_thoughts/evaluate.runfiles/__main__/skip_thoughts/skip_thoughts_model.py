@@ -1,0 +1,5 @@
+XSym
+0062
+d705713eab8ea3dbbfb9706ce4ec66ff
+/Users/Yang/skip_thoughts/skip_thoughts/skip_thoughts_model.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

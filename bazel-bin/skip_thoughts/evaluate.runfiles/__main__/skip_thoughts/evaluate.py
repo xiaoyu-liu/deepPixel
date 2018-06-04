@@ -1,0 +1,5 @@
+XSym
+0051
+0f931ee7ab310a4f2ab9a94001a9c264
+/Users/Yang/skip_thoughts/skip_thoughts/evaluate.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
