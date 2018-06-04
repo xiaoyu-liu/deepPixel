@@ -1,0 +1,5 @@
+XSym
+0095
+887a0a52a97800fbfb25446a9b9c6545
+/private/var/tmp/_bazel_Yang/400fa182461fe17cc77f5038eddf02de/external/local_config_xcode/BUILD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
