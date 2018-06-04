@@ -1,0 +1,5 @@
+XSym
+0100
+42c7b71f13dca2611d4147c5ea09b0bd
+/private/var/tmp/_bazel_Yang/400fa182461fe17cc77f5038eddf02de/external/local_config_cc/osx_archs.bzl
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
