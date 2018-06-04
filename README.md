@@ -14,7 +14,7 @@ This folder includes:
       
     Unfortunately, it still does not work.
     
-    Finally, I borrow a Macbook this morning tried to run the model. I did:
+    Finally, I borrowed a Macbook this afternoon tried to run the model. I did:
     
       - Install Python
       - Install Tensorflow, SK-learn, NLTK and etc.
@@ -31,4 +31,4 @@ This folder includes:
         --uni_embeddings_file=${EMBEDDINGS_FILE} \
         --uni_checkpoint_path=${CHECKPOINT_PATH}
         
-      However, it returned an ImportError with "Reason: image not found". I don't have enought time to debug it before the deadline, but I believe I am almost touching the final step to solve this problem.
+      However, it returned an ImportError with "Reason: image not found". I don't have enought time to debug it before the deadline, but I believe I am almost touching the final step to solve this problem. I updated all output files and folders after successful build-process.
