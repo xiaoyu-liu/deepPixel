@@ -1,0 +1,7 @@
+>> # Open windows cmd
+>> # In Prompt Terminal to code as:
+>> psql -U postgres -h localhost;
+>> create database phrase_holder; #Create database named as "phrase_holder"
+>> create table phrases(id int, phrase char(50)); #Create table named as "phrases"
+>> copy phrases to '/home/postgres/storage.txt' with delimiter as '|'; #Write to txt file
+>> copy phrases from '/home/postgres/storage.txt' with delimiter as '|'; #Read in txt file
