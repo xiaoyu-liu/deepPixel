@@ -1,0 +1,5 @@
+XSym
+0090
+04a9843d0eab945c19db68589eeff2a1
+/var/tmp/_bazel_Yang/install/47778a28458f32f81b044e8d91c914c5/_embedded_binaries/jdk.BUILD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
